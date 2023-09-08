@@ -1,0 +1,243 @@
+﻿Student10001 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 5100
+Student10002 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 5100
+Student10003 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 5100
+Student10004 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6105
+Student10005 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6105
+Student10006 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6105
+Student10007 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6105
+Student10008 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6150
+Student10009 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6150
+Student10010 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6150
+Student20001 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7150
+Student20002 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7150
+Student20003 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7210
+Student20004 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7210
+Student20005 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7210
+Student20006 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7210
+Student20007 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7250
+Student20008 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7250
+Student20009 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7250
+Student20010 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 7250
+Student30001 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6200
+Student30002 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6200
+Student30003 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6200
+Student30004 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6205
+Student30005 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6205
+Student30006 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6205
+Student30007 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6250
+Student30008 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6250
+Student30009 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6250
+Student30010 was found
+This is first time student is registering... creating new section in transcript.
+Congrats, you are registered for 6250
+CollegeNEU - College of engineering
+---------------------------------------
+List of programs:
+DepartmentMGEN
+DegreeMS in Information Systems
+-------------------------------------
+Course catalog:
+5100 - Application Engineer - 4 - credit hours
+6105 - Data Engineer with Python - 4 - credit hours
+6150 - Web development - 4 - credit hours
+-------------------------------------
+List of Semester
+Spring 2023 semester: These courses are available
+ - 5100 - Application Engineer - 47 avail. out of 50total.
+ - 6105 - Data Engineer with Python - 26 avail. out of 30total.
+ - 6150 - Web development - 22 avail. out of 25total.
+Student List
+Student id10001
+Taking courses for semester:Spring 2023 semester
+ - Application Engineer 5100 - 0.0
+Student id10002
+Taking courses for semester:Spring 2023 semester
+ - Application Engineer 5100 - 0.0
+Student id10003
+Taking courses for semester:Spring 2023 semester
+ - Application Engineer 5100 - 0.0
+Student id10004
+Taking courses for semester:Spring 2023 semester
+ - Data Engineer with Python 6105 - 0.0
+Student id10005
+Taking courses for semester:Spring 2023 semester
+ - Data Engineer with Python 6105 - 0.0
+Student id10006
+Taking courses for semester:Spring 2023 semester
+ - Data Engineer with Python 6105 - 0.0
+Student id10007
+Taking courses for semester:Spring 2023 semester
+ - Data Engineer with Python 6105 - 0.0
+Student id10008
+Taking courses for semester:Spring 2023 semester
+ - Web development 6150 - 0.0
+Student id10009
+Taking courses for semester:Spring 2023 semester
+ - Web development 6150 - 0.0
+Student id10010
+Taking courses for semester:Spring 2023 semester
+ - Web development 6150 - 0.0
+DepartmentDAMG
+DegreeData engineering degree
+-------------------------------------
+Course catalog:
+7150 - Data management - 4 - credit hours
+7210 - Data Management and Database Design - 4 - credit hours
+7250 - Big Data Architecture and Governance - 4 - credit hours
+-------------------------------------
+List of Semester
+Spring 2023 semester: These courses are available
+ - 7150 - Data management - 38 avail. out of 40total.
+ - 7210 - Data Management and Database Design - 26 avail. out of 30total.
+ - 7250 - Big Data Architecture and Governance - 16 avail. out of 20total.
+Student List
+Student id20001
+Taking courses for semester:Spring 2023 semester
+ - Data management 7150 - 0.0
+Student id20002
+Taking courses for semester:Spring 2023 semester
+ - Data management 7150 - 0.0
+Student id20003
+Taking courses for semester:Spring 2023 semester
+ - Data Management and Database Design 7210 - 0.0
+Student id20004
+Taking courses for semester:Spring 2023 semester
+ - Data Management and Database Design 7210 - 0.0
+Student id20005
+Taking courses for semester:Spring 2023 semester
+ - Data Management and Database Design 7210 - 0.0
+Student id20006
+Taking courses for semester:Spring 2023 semester
+ - Data Management and Database Design 7210 - 0.0
+Student id20007
+Taking courses for semester:Spring 2023 semester
+ - Big Data Architecture and Governance 7250 - 0.0
+Student id20008
+Taking courses for semester:Spring 2023 semester
+ - Big Data Architecture and Governance 7250 - 0.0
+Student id20009
+Taking courses for semester:Spring 2023 semester
+ - Big Data Architecture and Governance 7250 - 0.0
+Student id20010
+Taking courses for semester:Spring 2023 semester
+ - Big Data Architecture and Governance 7250 - 0.0
+DepartmentCSYE
+DegreeSoftware engineering systems
+-------------------------------------
+Course catalog:
+6200 - Concepts of Object-Oriented Design - 4 - credit hours
+6205 - Program Structure and Algorithms - 4 - credit hours
+6250 - Web Development Tools and Methods - 4 - credit hours
+-------------------------------------
+List of Semester
+Spring 2023 semester: These courses are available
+ - 6200 - Concepts of Object-Oriented Design - 32 avail. out of 35total.
+ - 6205 - Program Structure and Algorithms - 27 avail. out of 30total.
+ - 6250 - Web Development Tools and Methods - 16 avail. out of 20total.
+Student List
+Student id30001
+Taking courses for semester:Spring 2023 semester
+ - Concepts of Object-Oriented Design 6200 - 0.0
+Student id30002
+Taking courses for semester:Spring 2023 semester
+ - Concepts of Object-Oriented Design 6200 - 0.0
+Student id30003
+Taking courses for semester:Spring 2023 semester
+ - Concepts of Object-Oriented Design 6200 - 0.0
+Student id30004
+Taking courses for semester:Spring 2023 semester
+ - Program Structure and Algorithms 6205 - 0.0
+Student id30005
+Taking courses for semester:Spring 2023 semester
+ - Program Structure and Algorithms 6205 - 0.0
+Student id30006
+Taking courses for semester:Spring 2023 semester
+ - Program Structure and Algorithms 6205 - 0.0
+Student id30007
+Taking courses for semester:Spring 2023 semester
+ - Web Development Tools and Methods 6250 - 0.0
+Student id30008
+Taking courses for semester:Spring 2023 semester
+ - Web Development Tools and Methods 6250 - 0.0
+Student id30009
+Taking courses for semester:Spring 2023 semester
+ - Web Development Tools and Methods 6250 - 0.0
+Student id30010
+Taking courses for semester:Spring 2023 semester
+ - Web Development Tools and Methods 6250 - 0.0
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-------------------------------------
+Application Engineer: 18000
+Data Engineer with Python: 24000
+Web development: 18000
+Revenue for MGEN during Spring 2023 semester:60000
+***********************************************
+Data management: 12000
+Data Management and Database Design: 24000
+Big Data Architecture and Governance: 24000
+Revenue for DAMG during Spring 2023 semester:60000
+***********************************************
+Concepts of Object-Oriented Design: 18000
+Program Structure and Algorithms: 18000
+Web Development Tools and Methods: 24000
+Revenue for CSYE during Spring 2023 semester:60000
+***********************************************
+Total revenue 180000
